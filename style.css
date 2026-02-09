@@ -4,7 +4,7 @@ font-family:Arial;
 }
 
 
-/* NAVBAR */
+
 
 .navbar{
 display:flex;
@@ -33,7 +33,7 @@ color:pink;
 }
 
 
-/* DROPDOWN */
+
 
 .dropdown{
 position:relative;
@@ -54,7 +54,7 @@ display:block;
 
 
 
-/* SECTIONS */
+
 
 section{
 padding:60px;
@@ -65,7 +65,7 @@ background:#f4f4f4;
 }
 
 
-/* SERVICES */
+
 
 .card-container{
 display:flex;
@@ -80,7 +80,7 @@ text-align:center;
 }
 
 
-/* GALLERY */
+
 
 .gallery{
 display:flex;
@@ -93,7 +93,7 @@ max-width:300px;
 }
 
 
-/* STICKY NOTICE */
+
 
 .sticky-notice{
 background:yellow;
@@ -103,7 +103,7 @@ top:70px;
 }
 
 
-/* DISPLAY BEHAVIOR */
+
 
 .visible-box{
 background:lightgreen;
@@ -117,7 +117,7 @@ padding:20px;
 }
 
 
-/* FOOTER */
+
 
 footer{
 text-align:center;
@@ -127,7 +127,7 @@ color:white;
 }
 
 
-/* RESPONSIVE */
+
 
 @media(max-width:768px){
 
